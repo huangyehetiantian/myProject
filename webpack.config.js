@@ -4,7 +4,7 @@
 module.exports={
     entry:"./entry.js",
     output:{
-        path:"./build",
+        path:"./build/js",
         filename:"build.js"
     }
 }
